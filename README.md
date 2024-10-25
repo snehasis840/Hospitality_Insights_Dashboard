@@ -5,3 +5,13 @@ The objective of this project is to analyze and visualize revenue data across mu
 
 ## Scope of Work:
 The project involved gathering, transforming, and analyzing booking and revenue data from various hotel locations across India. Key insights are generated through Power BI to provide a centralized dashboard view of performance metrics and trends, catering to stakeholders' needs for real-time, actionable insights.
+
+
+## Insights:
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- AtliQ Bay has the highest occupancy of 66%
+- Week 24 recorded the highest revenue among all, which is 139.6 Million
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- AtliQ lost around 298 Million in cancellation
+- Elite type rooms has the most booking and as well higher cancellation rate
