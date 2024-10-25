@@ -8,7 +8,7 @@ The project involved gathering, transforming, and analyzing booking and revenue 
 
 ## Measures:
 - 	Revenue:	To get the total revenue_realized
-  --  Revenue = SUM(fact_bookings[revenue_realized])	
+  -  Revenue = SUM(fact_bookings[revenue_realized])	
 ![image](https://github.com/user-attachments/assets/113443c9-54c3-422c-bce6-c3bd191cce96)
 
 ## Insights:
