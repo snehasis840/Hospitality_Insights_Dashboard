@@ -7,7 +7,8 @@ The objective of this project is to analyze and visualize revenue data across mu
 The project involved gathering, transforming, and analyzing booking and revenue data from various hotel locations across India. Key insights are generated through Power BI to provide a centralized dashboard view of performance metrics and trends, catering to stakeholders' needs for real-time, actionable insights.
 
 ## Measures:
-- 1	Revenue	To get the total revenue_realized	Revenue = SUM(fact_bookings[revenue_realized])	fact_bookings
+- 	Revenue:	To get the total revenue_realized
+  --  Revenue = SUM(fact_bookings[revenue_realized])	
 ![image](https://github.com/user-attachments/assets/113443c9-54c3-422c-bce6-c3bd191cce96)
 
 ## Insights:
